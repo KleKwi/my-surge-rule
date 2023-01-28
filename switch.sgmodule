@@ -1,3 +1,4 @@
+#!name=switch
 [Rule]
 DOMAIN,ctest.cdn.nintendo.net,DIRECT
 DOMAIN,dragonst.hac.lp1.dragons.nintendo.net,DIRECT
