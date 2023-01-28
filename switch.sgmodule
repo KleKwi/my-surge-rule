@@ -1,0 +1,17 @@
+[Rule]
+DOMAIN,ctest.cdn.nintendo.net,DIRECT
+DOMAIN,dragonst.hac.lp1.dragons.nintendo.net,DIRECT
+DOMAIN,atum.hac.lp1.d4c.nintendo.net,DIRECT
+DOMAIN,gatum.hac.lp1.d4c.nintendo.net,DIRECT
+DOMAIN,superfly.hac.lp1.d4c.nintendo.net,DIRECT
+DOMAIN,aqua.hac.lp1.d4c.nintendo.net,DIRECT
+DOMAIN,sun.hac.lp1.d4c.nintendo.net,DIRECT
+
+[Host]
+ctest.cdn.nintendo.net = 202.175.5.98
+dragonst.hac.lp1.dragons.nintendo.net = 23.48.213.24
+atum.hac.lp1.d4c.nintendo.net = 23.48.213.24
+gatum.hac.lp1.d4c.nintendo.net = 23.48.213.24
+superfly.hac.lp1.d4c.nintendo.net = 23.48.213.24
+aqua.hac.lp1.d4c.nintendo.net = 23.48.213.24
+sun.hac.lp1.d4c.nintendo.net = 23.48.213.24
