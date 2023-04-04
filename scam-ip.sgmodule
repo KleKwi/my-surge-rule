@@ -3,5 +3,5 @@
 [Script]
 Scam-Info = type=generic,argument=1=1,timeout=10,script-path=https://cdn.jsdelivr.net/gh/KleKwi/my-surge-rule@main/scam-ip.js
 
-[Panel]
-Scam-Info = title=Scam Info,style=info,script-name=Scam-Info
+#[Panel]
+#Scam-Info = title=Scam Info,style=info,script-name=Scam-Info
