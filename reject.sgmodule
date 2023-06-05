@@ -1,0 +1,7 @@
+#!name=reject
+[Rule]
+DOMAIN,miav-cse.avlyun.com,REJECT
+DOMAIN,a0.app.xiaomi.com,REJECT
+DOMAIN,miui-fxcse.avlyun.com,REJECT
+DOMAIN,api.installer.xiaomi.com,REJECT
+IP-CIDR,157.148.47.204/32,REJECT
