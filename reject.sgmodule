@@ -1,6 +1,6 @@
 #!name=reject
 [Rule]
-IP-CIDR,157.148.47.204/32,REJECT
+IP-CIDR,157.148.47.204/32,REJECT,no-resolve
 DOMAIN,miav-cse.avlyun.com,REJECT
 DOMAIN,a0.app.xiaomi.com,REJECT
 DOMAIN,miui-fxcse.avlyun.com,REJECT
