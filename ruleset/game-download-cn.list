@@ -1,0 +1,26 @@
+# Name: Game Download CN
+
+# xbox china cdn
+DOMAIN,assets1.xboxlive.cn
+DOMAIN,assets2.xboxlive.cn
+DOMAIN,dl.delivery.mp.microsoft.com
+DOMAIN,tlu.dl.delivery.mp.microsoft.com
+
+# xbox global cdn
+DOMAIN,xvcf1.xboxlive.com
+DOMAIN,xvcf2.xboxlive.com
+DOMAIN,assets1.xboxlive.com
+DOMAIN,assets2.xboxlive.com
+
+# steam china cdn
+DOMAIN,dl.steam.clngaa.com
+DOMAIN,st.dl.eccdnx.com
+DOMAIN,st.dl.bscstorage.net
+DOMAIN,trts.baishancdnx.cn
+DOMAIN,cdn-ali.content.steamchina.com
+DOMAIN,xz.pphimalayanrt.com
+DOMAIN,lv.queniujq.cn
+DOMAIN,alibaba.cdn.steampipe.steamcontent.com
+
+# epic cdn
+DOMAIN,epicgames-download1-1251447533.file.myqcloud.com
