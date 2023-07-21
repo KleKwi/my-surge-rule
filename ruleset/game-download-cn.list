@@ -18,3 +18,10 @@ DOMAIN,alibaba.cdn.steampipe.steamcontent.com
 
 # epic cdn
 DOMAIN,epicgames-download1-1251447533.file.myqcloud.com
+
+DOMAIN-SUFFIX,steamcontent.com,DIRECT
+DOMAIN-SUFFIX,steamstatic.com,DIRECT
+DOMAIN-SUFFIX,steamserver.net,DIRECT
+DOMAIN-SUFFIX,test.steampowered.com,DIRECT
+DOMAIN-SUFFIX,api.steampowered.com,DIRECT
+DOMAIN-SUFFIX,rmbgame.net,DIRECT
