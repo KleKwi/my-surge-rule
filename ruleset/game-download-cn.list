@@ -6,12 +6,6 @@ DOMAIN,assets2.xboxlive.cn
 DOMAIN,dl.delivery.mp.microsoft.com
 DOMAIN,tlu.dl.delivery.mp.microsoft.com
 
-# xbox global cdn
-DOMAIN,xvcf1.xboxlive.com
-DOMAIN,xvcf2.xboxlive.com
-DOMAIN,assets1.xboxlive.com
-DOMAIN,assets2.xboxlive.com
-
 # steam china cdn
 DOMAIN,dl.steam.clngaa.com
 DOMAIN,st.dl.eccdnx.com
